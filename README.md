@@ -1,10 +1,8 @@
 ## `@FrankYang0610` Here!
 
-Welcome to my GitHub opensource repositories!
+Welcome to my GitHub open-source repositories!
 
-Programming languages: C++ (60%), Swift (25%), Python (15%)
-
-My interests include: algorithm engineering, programming language principles, protocol-oriented programming, assembly languages.
+My interests include: algorithm engineering, programming language principles, protocol-oriented programming, and assembly languages.
 
 #### Alis volat propriis 🦅
 
