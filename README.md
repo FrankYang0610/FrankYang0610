@@ -10,4 +10,4 @@ My interests include: the C++ Programming Language, algorithm engineering, progr
 
 ---
 
-Starting from 2024, my C++ programs will uniformly adopt snake_case. This is to maintain consistency with the STL library, enhance readability, and **improve aesthetics**. 
+Starting from 2024, my C++ programs will uniformly adopt `snake_case`. This is to maintain consistency with the STL library, enhance readability, and **improve aesthetics**. 
