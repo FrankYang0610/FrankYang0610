@@ -4,4 +4,4 @@
 
 Welcome to my GitHub open-source repositories!
 
-My interests include C++ and Swift programming, programming language principles, and compiler design.
+My interests include programming language design and software verification.
